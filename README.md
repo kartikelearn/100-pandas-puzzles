@@ -60,9 +60,27 @@ You should be able to see the notebooks and launch them in your web browser.
 
 ## Contributors
 
-This repository has benefitted from numerous contributors, with those who have sent puzzles and fixes listed in [CONTRIBUTORS](https://github.com/ajcr/100-pandas-puzzles/blob/master/CONTRIBUTORS.md).
+## My progress
 
-Thanks to everyone who has raised an issue too.
+This is my fork of [ajcr/100-pandas-puzzles](https://github.com/ajcr/100-pandas-puzzles). I'm working through the puzzles and keeping my solutions in this repo.
+
+| Section | Status |
+|---------|--------|
+| Importing pandas | Done |
+| DataFrame basics | Done |
+| DataFrames: beyond the basics | Done |
+| DataFrames: harder problems | Not started |
+| Series and DatetimeIndex | Doing |
+| Cleaning Data | Doing |
+| Using MultiIndexes | Not started |
+| Minesweeper | Not started |
+| Plotting | Not started |
+
+*Last updated: October 2026*
+
+## Credits
+
+All puzzles were created by [ajcr](https://github.com/ajcr/100-pandas-puzzles) and its [contributors](https://github.com/ajcr/100-pandas-puzzles/blob/master/CONTRIBUTORS.md). The solutions in this fork are my own.
 
 ## Other links
 
